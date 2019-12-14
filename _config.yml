@@ -1,0 +1,15 @@
+# _config.yml
+
+# theme: minimal-mistakes-jekyll
+
+remote_theme : mmistakes/minimal-mistakes
+
+plugin :
+	- jekyll-include-cache
+
+url     : "https://j2doll.github.io/mmtheme" 
+baseurl : ""
+
+
+
+
