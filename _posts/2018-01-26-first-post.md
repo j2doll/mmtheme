@@ -1,7 +1,7 @@
 ---
 title: "지킬 환영"
 date: 2019-12-14 15:30:00 +0900
-categories: 지킬 갱신
+categories: "지킬", "jekyll"
 ---
 
 ## 환영 
