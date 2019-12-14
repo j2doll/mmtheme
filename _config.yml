@@ -4,8 +4,17 @@
 
 remote_theme : mmistakes/minimal-mistakes
 
-plugin :
-	- jekyll-include-cache
+#plugin :
+#	- jekyll-include-cache
+
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "ko-KR"
+title                    : "한글 싸이트"
+title_separator          : "-"
+name                     : "한글 이름"
+description              : "놀라운 싸이트"
 
 url     : "https://j2doll.github.io/mmtheme/" 
 baseurl : ""
