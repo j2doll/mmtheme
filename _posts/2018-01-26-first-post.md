@@ -1,19 +1,16 @@
 ---
-title: "제킬 환영"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "지킬 환영"
+date: 2019-12-14 15:30:00 +0900
+categories: 지킬 갱신
 ---
 
-## 한글1
+## 환영 
 
-- 한글2
- - 한글 3
+이 게시물은 ```_posts``` 디렉토리에 있습니다. 계속해서 편집하고 사이트를 다시 빌드하여 변경 사항을 확인하십시오. 여러 가지 방법으로 사이트를 재구축 할 수 있지만 가장 일반적인 방법은 웹 서버를 시작하고 파일이 업데이트 될 때 사이트를 자동 재생성하는 ```jekyll serve``` 를 실행하는 것입니다.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+새 게시물을 추가하려면 ```_YYYY-MM-DD-name-of-post.ext``` 규칙을 따르는 ```_posts```  디렉토리에 파일을 추가하고 필요한 선행 항목을 포함하십시오. 이 게시물의 출처를 살펴보고 어떻게 작동하는지에 대한 아이디어를 얻으십시오.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Jekyll은 또한 코드 스니펫을 강력하게 지원합니다:
 
 ​```python
 def print_hi(name):
@@ -21,7 +18,7 @@ def print_hi(name):
 print_hi('Tom')
 ​```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Jekyll을 최대한 활용하는 방법에 대한 자세한 내용은 [Jekyll 문서][jekyll-docs] 를 확인하십시오. [Jekyll 's GitHub repo][jekyll-gh] 에서 모든 버그 / 기능 요청을 제출하십시오. 궁금한 점이 있으면 [Jekyll Talk][jekyll-talk] 에서 질문 할 수 있습니다.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
